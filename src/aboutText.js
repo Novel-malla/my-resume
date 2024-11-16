@@ -1,0 +1,5 @@
+const aboutText = `
+  I am a seasoned software developer with extensive experience in cloud development, proficient in testing, deploying, and managing cloud-based services across various platforms. I specialize in AWS, Node.js, and JavaScript, and have a strong focus on building scalable, resilient systems. In my current role at Capgemini, I have led the design and development of robust digital services, including RESTful APIs and microservices architectures. I have spearheaded projects that involved multi-region deployment strategies, improving system resilience, and enhancing the performance of cloud-native applications. I thrive in both independent and collaborative environments, consistently ensuring smooth project execution and fostering productive teamwork. I have also played a key role in mentoring new team members, sharing my knowledge of cloud services and development best practices. My approach is data-driven, and I enjoy tackling complex technical challenges to deliver innovative solutions that meet business needs and optimize system performance.
+`;
+
+export default aboutText;
